@@ -1,0 +1,7 @@
+C:\Users\318120799\source\repos\Roteiro_02\Roteiro_02\bin\Debug\Roteiro_02.exe.config
+C:\Users\318120799\source\repos\Roteiro_02\Roteiro_02\bin\Debug\Roteiro_02.exe
+C:\Users\318120799\source\repos\Roteiro_02\Roteiro_02\bin\Debug\Roteiro_02.pdb
+C:\Users\318120799\source\repos\Roteiro_02\Roteiro_02\obj\Debug\Roteiro_02.csprojAssemblyReference.cache
+C:\Users\318120799\source\repos\Roteiro_02\Roteiro_02\obj\Debug\Roteiro_02.csproj.CoreCompileInputs.cache
+C:\Users\318120799\source\repos\Roteiro_02\Roteiro_02\obj\Debug\Roteiro_02.exe
+C:\Users\318120799\source\repos\Roteiro_02\Roteiro_02\obj\Debug\Roteiro_02.pdb
